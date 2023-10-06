@@ -1,3 +1,8 @@
+*.class
+
+*.swp
+
+.idea/
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
